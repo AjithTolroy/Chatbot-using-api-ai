@@ -1,0 +1,28 @@
+{
+  "id": "932850ff-9716-4b6c-b9de-3ebd38cc731d",
+  "name": "monica",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "She is the friend of Ajith Tolroy"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1498550016,
+  "fallbackIntent": false,
+  "events": []
+}

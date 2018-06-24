@@ -1,0 +1,29 @@
+{
+  "id": "e1daae04-236e-4d50-af35-3ccbde78aefa",
+  "name": "Paracetomol",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown.paracetomol",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Paracetamol, also known as acetaminophen or APAP, is a medication used to treat pain and fever. It is typically used for mild to moderate pain. The quality of the evidence regarding the use for fever relief in children is poor"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1498483677830,
+  "fallbackIntent": false,
+  "events": []
+}

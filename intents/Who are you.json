@@ -1,0 +1,32 @@
+{
+  "id": "1221aa1f-c826-4084-92a9-6af7f0810f74",
+  "name": "Who are you",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "i am your personal assisstant",
+            "yes i am your personal assisstant"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1498482849,
+  "fallbackIntent": false,
+  "events": []
+}

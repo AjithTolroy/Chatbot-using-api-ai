@@ -1,0 +1,63 @@
+{
+  "id": "e298fa2a-3734-4fd1-8667-54b7d85fa1cb",
+  "name": "music.play",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "music.play",
+      "affectedContexts": [
+        {
+          "name": "player-control",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "75731ad6-a05e-4e7a-86f5-ac1c3a8e3a38",
+          "dataType": "@artist",
+          "name": "artist",
+          "value": "$artist",
+          "isList": false
+        },
+        {
+          "id": "9d0e1561-afd1-46c4-8389-ca8bd8c53c18",
+          "dataType": "@playlist",
+          "name": "playlist",
+          "value": "$playlist",
+          "isList": false
+        },
+        {
+          "id": "0f2e3720-c6f4-4816-b6e7-9294dfaba52b",
+          "dataType": "@song",
+          "name": "song",
+          "value": "$song",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Playing songs from your library, shuffling.",
+            "Playing $song by $artist.",
+            "Playing $song.",
+            "Playing $artist.",
+            "Playing $playlist."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1498480627208,
+  "fallbackIntent": false,
+  "events": []
+}

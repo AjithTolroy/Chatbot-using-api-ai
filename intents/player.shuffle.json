@@ -1,0 +1,37 @@
+{
+  "id": "3165c992-643e-41d6-a542-75e0431e1a2d",
+  "name": "player.shuffle",
+  "auto": true,
+  "contexts": [
+    "player-control"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "player.shuffle",
+      "affectedContexts": [
+        {
+          "name": "player-control",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Okay, playing songs in random."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1498480627199,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "13d1f717-9b11-4a64-9bb5-f7c2582ce4d3",
+  "name": "player.play",
+  "auto": true,
+  "contexts": [
+    "player-control"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "player.play",
+      "affectedContexts": [
+        {
+          "name": "player-control",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Got it, continue playing."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1498480627195,
+  "fallbackIntent": false,
+  "events": []
+}

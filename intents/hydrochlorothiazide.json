@@ -1,0 +1,28 @@
+{
+  "id": "7a0f82d9-9f44-4a82-949d-0fbbd8ccd2c5",
+  "name": "hydrochlorothiazide",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Hydrochlorothiazide is a thiazide diuretic (water pill) that helps prevent your body from absorbing too much salt, which can cause fluid retention.\nHydrochlorothiazide is used to treat high blood pressure (hypertension).\nHydrochlorothiazide is also used to treat fluid retention (edema) in people with congestive heart failure, cirrhosis of the liver, or kidney disorders, or edema caused by taking steroids or estrogen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1498720553,
+  "fallbackIntent": false,
+  "events": []
+}

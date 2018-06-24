@@ -1,0 +1,28 @@
+{
+  "id": "1507fba4-65b6-46a6-a92a-7e08a2d2b41b",
+  "name": "elon musk",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "He is the founder, CEO, and CTO of SpaceX; a co-founder,[16] a Series A investor, CEO, and product architect of Tesla Inc.; co-chairman of OpenAI; founder and CEO of Neuralink. He was previously co-founder and chairman of SolarCity; co-founder of Zip2; and founder of X.com, which merged with Confinity and took the name PayPal.[21] As of May 2017, he has an estimated net worth of $15.2 billion, making him the 80th-wealthiest person in the world.[22] In December 2016, Musk was ranked 21st on the Forbes list of The World\u0027s Most Powerful People"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1498550139,
+  "fallbackIntent": false,
+  "events": []
+}

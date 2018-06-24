@@ -1,0 +1,28 @@
+{
+  "id": "123cae83-7cfb-4176-8848-78f45b0c9e06",
+  "name": "clindamycin",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Clindamycin is an antibiotic that fights bacteria in the body.\nClindamycin is used to treat serious infections caused by bacteria.\nClindamycin may also be used for purposes not listed in this medication guide."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1498719710793,
+  "fallbackIntent": false,
+  "events": []
+}

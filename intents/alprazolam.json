@@ -1,0 +1,29 @@
+{
+  "id": "5179ae35-c8c1-4e01-9fb8-272b98aa0abb",
+  "name": "alprazolam",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Alprazolam is a benzodiazepine (ben-zoe-dye-AZE-eh-peen). It affects chemicals in the brain that may be unbalanced in people with anxiety.\nAlprazolam is used to treat anxiety disorders, panic disorders, and anxiety caused by depression.\nAlprazolam may also be used for purposes not listed in this medication guide."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1498629566075,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "02f674c3-8ffa-45fb-bf0e-d078c4a91d32",
+  "name": "ciprofloxacin",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Ciprofloxacin is a fluoroquinolone (flor-o-KWIN-o-lone) antibiotic that fights bacteria in the body. Ciprofloxacin is used to treat different types of bacterial infections. It is also used to treat people who have been exposed to anthrax or certain types of plague.\nFluoroquinolone antibiotics can cause serious or disabling side effects. Ciprofloxacin should be used only for infections that cannot be treated with a safer antibiotic.\nCiprofloxacin may also be used for purposes not listed in this medication guide."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1498719481648,
+  "fallbackIntent": false,
+  "events": []
+}

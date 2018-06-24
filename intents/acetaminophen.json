@@ -1,0 +1,29 @@
+{
+  "id": "0f2d9df7-1315-48ab-9439-6e06df446dac",
+  "name": "acetaminophen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown.medicine",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Acetaminophen is a pain reliever and a fever reducer.\nAcetaminophen is used to treat many conditions such as headache, muscle aches, arthritis, backache, toothaches, colds, and fevers.\nAcetaminophen may also be used for purposes not listed in this medication guide."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1498571313449,
+  "fallbackIntent": false,
+  "events": []
+}

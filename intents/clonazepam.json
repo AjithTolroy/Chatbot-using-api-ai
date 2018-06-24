@@ -1,0 +1,28 @@
+{
+  "id": "111de657-fba5-4f52-97de-8cf8776a5f74",
+  "name": "clonazepam",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Clonazepam is a benzodiazepine. It affects chemicals in the brain that may be unbalanced. Clonazepam is also a seizure medicine, also called an anti-epileptic drug.\nClonazepam is used to treat certain seizure disorders (including absence seizures or Lennox-Gastaut syndrome) in adults and children.\nClonazepam is also used to treat panic disorder (including agoraphobia) in adults."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1498719945829,
+  "fallbackIntent": false,
+  "events": []
+}

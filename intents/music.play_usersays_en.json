@@ -1,0 +1,116 @@
+[
+  {
+    "id": "c51bc336-9241-4eb8-9e6b-34ca6bf31423",
+    "data": [
+      {
+        "text": "play songs from my ",
+        "userDefined": false
+      },
+      {
+        "text": "workout",
+        "alias": "playlist",
+        "meta": "@playlist",
+        "userDefined": false
+      },
+      {
+        "text": " playlist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e1d355df-f682-4017-ac58-9594b0fce76d",
+    "data": [
+      {
+        "text": "start the ",
+        "userDefined": false
+      },
+      {
+        "text": "morning",
+        "alias": "playlist",
+        "meta": "@playlist",
+        "userDefined": true
+      },
+      {
+        "text": " playlist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b60b1e39-2d5a-4881-a2e8-52c0dd7e5399",
+    "data": [
+      {
+        "text": "I want to listen to ",
+        "userDefined": false
+      },
+      {
+        "text": "Angie",
+        "alias": "song",
+        "meta": "@song",
+        "userDefined": true
+      },
+      {
+        "text": " by ",
+        "userDefined": false
+      },
+      {
+        "text": "The Rolling Stones",
+        "alias": "artist",
+        "meta": "@artist",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "53c5bcb1-cffa-421e-b5b5-556d92203869",
+    "data": [
+      {
+        "text": "play ",
+        "userDefined": false
+      },
+      {
+        "text": "Lady Gaga",
+        "alias": "artist",
+        "meta": "@artist",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c4d8cae1-5b78-4f16-b71b-8e50625ec4b2",
+    "data": [
+      {
+        "text": "can you play music",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5890a9e4-a6ea-4e9d-b65d-549bf7a0fe14",
+    "data": [
+      {
+        "text": "play a song",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

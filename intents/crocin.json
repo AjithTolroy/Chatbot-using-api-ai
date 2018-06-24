@@ -1,0 +1,29 @@
+{
+  "id": "c856232e-3447-415e-ae4f-eed87c63be20",
+  "name": "crocin",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown.crocin",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Crocin is a carotenoid chemical compound that is found in the flowers crocus and gardenia. Crocin is the chemical ingredient primarily responsible for the color of saffron"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1498543175441,
+  "fallbackIntent": false,
+  "events": []
+}

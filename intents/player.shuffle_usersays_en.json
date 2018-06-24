@@ -1,0 +1,73 @@
+[
+  {
+    "id": "36226840-1d7d-4aaf-b8b3-709f4073fb6f",
+    "data": [
+      {
+        "text": "random tracks",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3e3bc8fc-222b-44ef-9a82-51f53fbd8597",
+    "data": [
+      {
+        "text": "shuffle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cd3d9e82-6ee4-4eb2-901d-9af5b48d69fd",
+    "data": [
+      {
+        "text": "shuffle songs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6d7986bb-4de9-4f43-9c5e-d634656e0499",
+    "data": [
+      {
+        "text": "shuffle ",
+        "userDefined": false
+      },
+      {
+        "text": "music",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d072b9b9-f718-40c9-b0eb-1039766d55a8",
+    "data": [
+      {
+        "text": "shuffle my ",
+        "userDefined": false
+      },
+      {
+        "text": "music",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

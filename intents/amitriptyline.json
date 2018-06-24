@@ -1,0 +1,28 @@
+{
+  "id": "d22fb580-6b11-47c1-87ec-eac4944cf4db",
+  "name": "amitriptyline",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Amitriptyline is a tricyclic antidepressant. Amitriptyline affects chemicals in the brain that may be unbalanced in people with depression.\nAmitriptyline is used to treat symptoms of depression.\nAmitriptyline may also be used for purposes not listed in this medication guide."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1498630588768,
+  "fallbackIntent": false,
+  "events": []
+}

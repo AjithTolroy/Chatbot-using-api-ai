@@ -1,0 +1,28 @@
+{
+  "id": "7d44661f-4a04-4b8b-84b2-a06e0d18dc68",
+  "name": "codeine",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Codeine is an opioid pain medication. An opioid is sometimes called a narcotic.\nCodeine is used to treat mild to moderately severe pain.\nCodeine may also be used for purposes not listed in this medication guide."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1498720013803,
+  "fallbackIntent": false,
+  "events": []
+}

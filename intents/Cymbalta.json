@@ -1,0 +1,28 @@
+{
+  "id": "fc5dd723-87d3-48b5-ab2f-0b61549c419d",
+  "name": "Cymbalta",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Cymbalta (duloxetine) is a selective serotonin and norepinephrine reuptake inhibitor antidepressant (SSNRI). The way duloxetine works is still not fully understood. It is thought to positively affect communication between nerve cells in the central nervous system and/or restore chemical balance in the brain."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1498720390134,
+  "fallbackIntent": false,
+  "events": []
+}

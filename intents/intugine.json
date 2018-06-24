@@ -1,0 +1,29 @@
+{
+  "id": "4ece1f50-142b-43d2-9ebc-1c0e4edabb87",
+  "name": "intugine",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "intugine is a company"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520602905,
+  "fallbackIntent": false,
+  "events": []
+}

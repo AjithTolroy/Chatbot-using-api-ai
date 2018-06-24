@@ -1,0 +1,28 @@
+{
+  "id": "bd038098-d7f8-4fee-8d44-ed0823504622",
+  "name": "who designed you",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Ajith Tolroy is my boss"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1498549861,
+  "fallbackIntent": false,
+  "events": []
+}

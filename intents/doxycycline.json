@@ -1,0 +1,28 @@
+{
+  "id": "231282dc-e810-4e9b-be90-caf9413f5350",
+  "name": "doxycycline",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Doxycycline is a tetracycline antibiotic that fights bacteria in the body.\nDoxycycline is used to treat many different bacterial infections, such as acne, urinary tract infections, intestinal infections, eye infections, gonorrhea, chlamydia, periodontitis (gum disease), and others."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1498720441278,
+  "fallbackIntent": false,
+  "events": []
+}

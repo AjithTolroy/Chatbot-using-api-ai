@@ -1,0 +1,28 @@
+{
+  "id": "2b6e19a0-bfa5-4be4-bb6c-4a59ae1e2747",
+  "name": "citalopram",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Citalopram is an antidepressant in a group of drugs called selective serotonin reuptake inhibitors (SSRIs).\nCitalopram is used to treat depression.\nCitalopram may also be used for purposes not listed in this medication guide."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1498719563787,
+  "fallbackIntent": false,
+  "events": []
+}

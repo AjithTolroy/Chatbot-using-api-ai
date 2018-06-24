@@ -1,0 +1,28 @@
+{
+  "id": "23d548ab-2dfa-4cd2-9d92-156659892e4f",
+  "name": "ativan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Ativan (lorazepam) belongs to a group of drugs called benzodiazepines. Lorazepam affects chemicals in the brain that may be unbalanced in people with anxiety.\nAtivan is used to treat anxiety disorders.\nAtivan may also be used for purposes not listed in this medication guide."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1498630740347,
+  "fallbackIntent": false,
+  "events": []
+}

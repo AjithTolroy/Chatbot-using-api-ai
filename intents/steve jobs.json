@@ -1,0 +1,29 @@
+{
+  "id": "bf5f5365-3887-48f3-b721-3ff53de48a5c",
+  "name": "steve jobs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown.stevejobs",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Steven Paul Jobs was an American entrepreneur, businessman, inventor, and industrial designer. He was the co-founder, chairman, and chief executive officer of Apple Inc.; CEO and majority shareholder."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1498549637,
+  "fallbackIntent": false,
+  "events": []
+}

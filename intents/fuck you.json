@@ -1,0 +1,29 @@
+{
+  "id": "6b1d29ac-7c55-4111-a69c-44ab6d73f8f0",
+  "name": "fuck you",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome.fuck",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "sorry we are not ready to respond to these kind of texts."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1498549222074,
+  "fallbackIntent": false,
+  "events": []
+}

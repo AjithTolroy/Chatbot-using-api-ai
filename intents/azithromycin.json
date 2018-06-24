@@ -1,0 +1,28 @@
+{
+  "id": "4aeee985-256e-4a3a-a6ba-7bd455b796f3",
+  "name": "azithromycin",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Azithromycin is an antibiotic that fights bacteria.\nAzithromycin is used to treat many different types of infections caused by bacteria, such as respiratory infections, skin infections, ear infections, and sexually transmitted diseases.\nAzithromycin may also be used for purposes not listed in this medication guide."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1498719429680,
+  "fallbackIntent": false,
+  "events": []
+}

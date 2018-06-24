@@ -1,0 +1,32 @@
+[
+  {
+    "value": "work",
+    "synonyms": [
+      "work"
+    ]
+  },
+  {
+    "value": "study",
+    "synonyms": [
+      "study"
+    ]
+  },
+  {
+    "value": "workout",
+    "synonyms": [
+      "workout"
+    ]
+  },
+  {
+    "value": "relax",
+    "synonyms": [
+      "relax"
+    ]
+  },
+  {
+    "value": "morning",
+    "synonyms": [
+      "morning"
+    ]
+  }
+]

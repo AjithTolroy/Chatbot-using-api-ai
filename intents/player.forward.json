@@ -1,0 +1,37 @@
+{
+  "id": "1b09fe04-4d3d-4b25-af99-a7c9debf03c0",
+  "name": "player.forward",
+  "auto": true,
+  "contexts": [
+    "player-control"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "player.forward",
+      "affectedContexts": [
+        {
+          "name": "player-control",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Playing next song."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1498480627197,
+  "fallbackIntent": false,
+  "events": []
+}

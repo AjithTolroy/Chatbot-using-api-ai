@@ -1,0 +1,28 @@
+{
+  "id": "159088ed-bef2-4de4-b813-8570d67cc5e3",
+  "name": "gabapentin",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Gabapentin is an anti-epileptic medication, also called an anticonvulsant. It affects chemicals and nerves in the body that are involved in the cause of seizures and some types of pain.\nGabapentin is used in adults to treat nerve pain caused by herpes virus or shingles (herpes zoster)."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1498720501075,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "bf8763d0-6f07-4c9b-a5a8-d2803ebc5a60",
+  "name": "amlodipine",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown.medicine",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Amlodipine is a calcium channel blocker that dilates (widens) blood vessels and improves blood flow.\nAmlodipine is used to treat chest pain (angina) and other conditions caused by coronary artery disease.\nAmlodipine is also used to treat high blood pressure (hypertension). Lowering blood pressure may lower your risk of a stroke or heart attack.\nAmlodipine is for use in adults and children who are at least 6 years old."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1498630638113,
+  "fallbackIntent": false,
+  "events": []
+}

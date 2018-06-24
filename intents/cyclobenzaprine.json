@@ -1,0 +1,28 @@
+{
+  "id": "53202660-4564-4d5d-a7aa-fad2e0d1e411",
+  "name": "cyclobenzaprine",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Cyclobenzaprine is a muscle relaxant. It works by blocking nerve impulses (or pain sensations) that are sent to your brain.\nCyclobenzaprine is used together with rest and physical therapy to treat skeletal muscle conditions such as pain or injury.\nCyclobenzaprine may also be used for purposes not listed in this medication guide."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1498720347505,
+  "fallbackIntent": false,
+  "events": []
+}

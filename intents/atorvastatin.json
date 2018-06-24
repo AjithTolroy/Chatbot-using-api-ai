@@ -1,0 +1,28 @@
+{
+  "id": "62994480-1429-41a9-ad06-9cc0a9c62e90",
+  "name": "atorvastatin",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Atorvastatin is in a group of drugs called HMG CoA reductase inhibitors, or \"statins.\" Atorvastatin reduces levels of \"bad\" cholesterol (low-density lipoprotein, or LDL) and triglycerides in the blood, while increasing levels of \"good\" cholesterol (high-density lipoprotein, or HDL).\nAtorvastatin is used to treat high cholesterol, and to lower the risk of stroke, heart attack, or other heart complications in people with type 2 diabetes, coronary heart disease, or other risk factors.\nAtorvastatin is used in adults and children who are at least 10 years old."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1498630992784,
+  "fallbackIntent": false,
+  "events": []
+}
